@@ -1,0 +1,173 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:rgb(15, 15, 15);
+  }
+  .active {
+    float:left;
+  }
+    li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    float: right;
+  }
+ .header{
+background-color: rgb(247, 246, 246);
+padding:70px;
+text-align: center;
+ }
+ .button{
+    background-color: blue;
+    color: white;
+    padding:4px;
+    border: none;
+    margin-top: 10px;
+ }
+ .relative{
+    position: relative;
+    border: none;
+    background-color: rgb(240, 239, 239);
+    width: 30%;
+    height: 250px;
+    margin-top:50px;
+    text-align: center;
+    padding-top: 100px;
+    margin-left: 40px;
+ }
+    .absolute {
+        position: absolute;
+        border: none;
+        width: 20%;
+        margin-left: 150px;
+        margin-top: -177px;
+         height: 30px;
+        background-color: rgb(44, 29, 243);
+    }
+    .relative1{
+      position: relative;
+      border: none;
+      background-color: rgb(240, 239, 239);
+      width: 30%;
+      height: 250px;
+      margin-top:50px;
+      text-align: center;
+      padding-top: 100px;
+      margin-left: 40px;
+   }
+      .absolute1{
+          position: absolute;
+          border: none;
+          width: 20%;
+          margin-left: 150px;
+          margin-top: -177px;
+           height: 30px;
+          background-color: rgb(44, 29, 243);
+      }
+      .relative2{
+        position: relative;
+        border: none;
+        background-color: rgb(240, 239, 239);
+        width: 30%;
+        height: 250px;
+        margin-top:50px;
+        text-align: center;
+        padding-top: 100px;
+        margin-left: 40px;
+     }
+        .absolute2 {
+            position: absolute;
+            border: none;
+            width: 20%;
+            margin-left: 150px;
+            margin-top: -155px;
+             height: 30px;
+            background-color: rgb(44, 29, 243);
+        }
+        .relative3{
+          position: relative;
+          border: none;
+          background-color: rgb(240, 239, 239);
+          width: 30%;
+          height: 250px;
+          margin-top:50px;
+          text-align: center;
+          padding-top: 100px;
+          margin-left: 40px;
+       }
+          .absolute3 {
+              position: absolute;
+              border: none;
+              width: 20%;
+              margin-left: 150px;
+              margin-top: -177px;
+               height: 30px;
+              background-color: rgb(44, 29, 243);
+          }
+          .relative4{
+            position: relative;
+            border: none;
+            background-color: rgb(240, 239, 239);
+            width: 30%;
+            height: 250px;
+            margin-top:50px;
+            text-align: center;
+            padding-top: 100px;
+            margin-left: 40px;
+         }
+            .absolute4 {
+                position: absolute;
+                border: none;
+                width: 20%;
+                margin-left: 150px;
+                margin-top: -177px;
+                 height: 30px;
+                background-color: rgb(44, 29, 243);
+            }
+            .relative5{
+              position: relative;
+              border: none;
+              background-color: rgb(240, 239, 239);
+              width: 30%;
+              height: 250px;
+              margin-top:50px;
+              text-align: center;
+              padding-top: 100px;
+              margin-left: 40px;
+           }
+              .absolute5 {
+                  position: absolute;
+                  border: none;
+                  width: 20%;
+                  margin-left: 150px;
+                  margin-top: -177px;
+                   height: 30px;
+                  background-color: rgb(44, 29, 243);
+              }
+    .bx {
+        color:white;
+          }
+          .row{
+            display: flex;
+          }
+ .row1{
+  display: flex;
+ }
+ .footer {
+  background-color: #111111;
+  padding: 20px;
+  text-align: center;
+  color:white;
+  margin-top: 20px;
+
+}
+  
